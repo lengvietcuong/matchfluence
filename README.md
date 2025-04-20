@@ -22,7 +22,7 @@ You can also watch a demo video of the platform at [youtu.be/KAS3P1GcjUY](https:
 
 - **Next.js**: A modern web framework for building React applications.
 - **Supabase**: An open-source PostreSQL database, used for storing information of influencers.
-- **Groq**: A platform that offers fast inference for open-source LLMs. Here, it is used to run the `deepseek-r1-distill-llama-70b` reasoning model and the `llama-3.2-11b-vision-preview` vision model.
+- **Groq**: A platform that offers fast inference for open-source LLMs. Here, it is used to run the `deepseek-r1-distill-llama-70b` reasoning model and the `llama-4-scout-17b-16e-instruct` vision model.
 - **Vercel**: A cloud platform for deployment.
 
 ## How to run it?

@@ -158,7 +158,7 @@ export async function describeInfluencerFeed(
   );
 
   const { text } = await generateText({
-    model: groq1("llama-3.2-11b-vision-preview"),
+    model: groq1("meta-llama/llama-4-scout-17b-16e-instruct"),
     messages: [
       {
         role: "user",
