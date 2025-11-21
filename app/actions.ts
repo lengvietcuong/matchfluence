@@ -119,8 +119,8 @@ export async function pickTopInfluencers(
 ): Promise<string[]> {
   const model =
     count % 2 === 0
-      ? groq1("deepseek-r1-distill-llama-70b")
-      : groq2("deepseek-r1-distill-llama-70b");
+      ? groq1("openai/gpt-oss-120b")
+      : groq2("openai/gpt-oss-120b");
 
   const prompt = `Help me find suitable social media influencers for my company's marketing campaign. Here are the details:
 - Company name: ${formData.companyName}
