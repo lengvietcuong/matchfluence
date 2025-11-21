@@ -10,8 +10,6 @@ Influencer marketing is a extremely powerful as consumers tend to purchase items
 
 ## See it in action
 
-You can try out the platform by visiting the website at [matchfluence.vercel.app](https://matchfluence.vercel.app/).
-
 You can also watch a demo video of the platform at [youtu.be/KAS3P1GcjUY](https://youtu.be/KAS3P1GcjUY).
 
 ## Architecture
